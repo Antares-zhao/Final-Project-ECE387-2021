@@ -4,12 +4,12 @@ by an electromagnetic interrogation pulse from a nearby RFID reader device, the 
 number, back to the reader. 
 
 # Components
-Arduino UNO R3 
-MFRC 522 reader
-One Channel Relay module 
-Heavy duty electric door lock 
-Blank pvc IC cards
-Some jump wires
+* Arduino UNO R3 
+* MFRC 522 reader
+* One Channel Relay module 
+* Heavy duty electric door lock 
+* Blank pvc IC cards
+* Some jump wires
 
 # How it works
 The reader would check if the data is matched and send signal back to the Arduino. The Arduino would engage the one channel relay module. 
