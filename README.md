@@ -19,4 +19,4 @@ The reader would check if the data is matched and send signal back to the Arduin
 The realy module would charge the electric door lock to open. After 3 seconds delay, the relay would discharge the lock. 
 
 # Demo
-video link: 
+demo.mp4
