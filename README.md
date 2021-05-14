@@ -20,6 +20,7 @@ The realy module would charge the electric door lock to open. After 3 seconds de
 
 # Demo
 demo.mp4
+or go to YouTube link: https://www.youtube.com/watch?v=h1is0YZxW7M
 
 # How these chips working
 Detail graph is patched in theory.pdf
